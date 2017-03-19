@@ -1,7 +1,9 @@
-=====
-color
-=====
-Use to color your applications output
+=======
+colorit
+=======
+Use to color your applications output.
+
+It uses RGB format coloring so you get to create your own color.
 
 Included
 --------

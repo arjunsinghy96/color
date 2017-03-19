@@ -7,7 +7,7 @@ ATTR = { 'bold' : '\033[1m',
          'strike' : '\033[9m' 
          }
 
-def color_front(text, red, green, blue, attr=None):
+def color_front(text, red, green, blue):
     """
     wraps the text in appropriate ANSI escape code for foreground color
     param text: text to be colored
